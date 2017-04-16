@@ -16,6 +16,10 @@ Darkly Bootstrap Theme for [SmokePing](http://oss.oetiker.ch/smokeping/) Network
 4. Change other definitions/parameters if necessary
 ```
 
+## Todo
+
+Convert ```<table>``` menu list to ```<ul> <li>```
+
 ## Changelog
 
 - `16/04/2017`: Release
