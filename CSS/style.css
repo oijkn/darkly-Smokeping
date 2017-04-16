@@ -1,0 +1,30 @@
+.panel-heading {
+	text-transform: uppercase;
+}
+.panel-body img {
+	width: 100%;
+}
+footer {
+	width: 100%;
+}
+footer div {
+	text-align: right;
+}
+.logo img {
+	width: 70px;
+}
+.jumbotron {
+	padding: 0.5em 0.6em;
+}
+h3 {
+	margin-top: 10px;
+}
+#filter_title {
+	float: left;
+	font-size: large;
+	font-weight: bold;
+	margin-right: 5px;
+}
+#filter_text {
+	margin-bottom: -20px;
+}
